@@ -2,6 +2,8 @@
 
 Modern, responsive portfolio for a Data Science / AI student built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
 
+🔗 **Live Demo**: [https://abre1234.github.io/Abrar/](https://abre1234.github.io/Abrar/)
+
 ## Project structure
 
 ```
