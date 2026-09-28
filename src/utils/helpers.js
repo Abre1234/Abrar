@@ -8,10 +8,10 @@ export const personalInfo = {
   github: 'https://github.com/Abre1234',
   githubUsername: 'Abre1234',
   linkedin: 'https://www.linkedin.com/in/abre1234',
-  resumePath: '/resume.pdf',
+  resumePath: './resume.pdf',
   location: 'Bahir Dar, Ethiopia',
   /** Drop your photo at public/images/profile.jpg (recommended) */
-  profileImage: '/images/profile.jpg',
+  profileImage: './images/profile.jpg',
   /** Fallback until you add profile.jpg */
   profileFallback: 'https://avatars.githubusercontent.com/u/216869054?v=4',
 };
@@ -24,7 +24,7 @@ export const stats = [
 ];
 
 export const about = {
-  bio: `I'm a Data Science graduate from Bahir Dar University with a strong foundation in statistics, programming, machine learning, data analysis, and database systems. I enjoy transforming raw data into meaningful insights and building practical AI and machine learning solutions.\n\nMy experience spans data analysis, business intelligence, machine learning, database administration, research, and applied AI projects. I work primarily with Python, SQL, Power BI, Scikit-learn, TensorFlow/PyTorch, and modern data and AI tools.\n\nBeyond individual projects, I enjoy contributing to technical communities, mentoring others, participating in hackathons and digital-skills programs, and continuously developing my skills as a data professional.`,
+  bio: `I'm a Data Science graduate from Bahir Dar University with a strong foundation in statistics, programming, machine learning, data analysis, and database systems. I enjoy transforming raw data into clean insights and building AI-powered tools that solve practical business and research problems.`,
   interests: ['Data Science', 'Machine Learning', 'Artificial Intelligence', 'Data Analytics', 'Computer Vision', 'Statistical Modeling', 'Database Systems'],
   status: 'Open to opportunities & collaborations',
 };
